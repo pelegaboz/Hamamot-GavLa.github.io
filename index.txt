@@ -1,0 +1,23 @@
+<!-- יום ומרצה -->
+                <div class="flex justify-between items-center mb-6 p-4 bg-gradient-to-r from-blue-50 to-indigo-50 rounded-lg border border-blue-100">
+                    <div class="text-right">
+                        <span class="text-lg font-semibold text-gray-700 rubik-font">יום שלישי</span>
+                        <div class="text-sm text-gray-500">יום הפעילות</div>
+                    </div>
+                    <div class="text-left">
+                        <span class="text-lg font-semibold text-gray-700 rubik-font">ד"ר יוסי כהן</span>
+                        <div class="text-sm text-gray-500">המרצה</div>
+                    </div>
+                </div>
+                
+                <!-- Video Embed - עדכון סרטון: החלף את הקוד _6cU96YBFa0 ב-URL בקוד הסרטון החדש -->
+                <div class="video-wrapper">
+                    <div class="video-container">
+                        <iframe 
+                            src="https://www.youtube-nocookie.com/embed/_6cU96YBFa0?rel=0&modestbranding=1" 
+                            title="סרטון תקשורת בין אישית"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                            allowfullscreen>
+                        </iframe>
+                    </div>
+                </div>
